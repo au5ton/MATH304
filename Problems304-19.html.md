@@ -55,6 +55,8 @@
 <LI> Quiz 7 (Thurs. March 21)  Sec. 5.1: 1a,b, 3a,b, 4, 7, 8a, 10; Sec. 5.2: 1a,c,  2, 4, 6, 14
 <LI> Additional Problems to review before EXAM II: Sec. 5.3: 1b,c, 3, 5, 10, 14
 <LI> Quiz 8 (Thurs. April 4)   Sec. 5.3: 1b,c, 3, 5, 10, 14; Sec. 5.4: 3, 4, 9, 10, 13, 16
+<LI> Quiz 9 (Thurs. April 11)   Sec. 5.5: 3 - 7, 12, 15, 21; Sec. 5.6: 1b, 3, 7
+<LI> Quiz 10 (Thurs. April 18)  Sec. 6.1: 1b,c, d, g, 2, 3, 4, 5, 7, 10, 11, 13, 14, 17, 18; Sec. 6.2: 1a, b, c, 2a, c, 4, 5, 6
 </UL>     
 </body>
 </html>
