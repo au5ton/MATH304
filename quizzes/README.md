@@ -1,0 +1,40 @@
+quizzes
+=======
+
+- Quiz 1:
+    - Sec 1.1:
+    - Sec 1.2:
+    - Sec 1.3:
+- Quiz 2:
+    - Sec 1.4:
+    - Sec 1.5: 
+    - Sec 2.1:
+- Quiz 3:
+    - Sec 2.2:
+    - Sec 2.3:
+    - Sec 3.2:
+- Quiz 4:
+    - Sec 3.3:
+    - Sec 3.4:
+- Quiz 5:
+    - Sec 3.5: 
+    - Sec 3.6:
+    - Sec 4.1:
+- Quiz 6:
+    - Sec 4.2:
+    - Sec 4.3:
+- Quiz 7:
+    - Sec 5.1:
+    - Sec 5.2:
+- Quiz 8:
+    - Sec 5.3:
+    - Sec 5.4:
+- Quiz 9:
+    - Sec 5.5:
+    - Sec 5.6:
+- Quiz 10:
+    - Sec 6.1:
+    - Sec 6.2:
+- Quiz 11: 
+    - Sec 6.2: #5a
+    - Sec 6.3: #4a, 9
