@@ -31,6 +31,9 @@ Actual problems used on the graded quizzes
 - Quiz 8:
     - Sec 5.3: #1b, 
     - Sec 5.4: #10 (change: P_5 to P_3), 16
+        - Where `(5)` is the inner product listed on page 239 (not included in repo):
+        
+        ![\left \langle p,q \right \rangle = \sum_{i=1}^{n} p(x_i)q(x_i)](https://latex.codecogs.com/svg.latex?%5Cleft%20%5Clangle%20p%2Cq%20%5Cright%20%5Crangle%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20p%28x_i%29q%28x_i%29)
 - Quiz 9:
     - Sec 5.5: #7, 15
     - Sec 5.6: #7
